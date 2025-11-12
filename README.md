@@ -1,11 +1,11 @@
 # Assignment M000
 
 ## 1. Personal Details
-* **Name:** Kagabo
-* **Email:** [Your Email Here]
+* **Name:** Kagabo Riziki
+* **Email:** kagaboriziziki@gmail.com
 
 ## 2. GitHub Repository URL
-* [[You will paste your URL here in Step 3]](https://github.com/kagabo183/m000-assignment)
+* [[Repository URL]](https://github.com/kagabo183/m000-assignment)
 
 ## 3. Description of your work
 I successfully set up the Aiken development environment, installed the VS Code extension, and created a new project. I wrote 6 passing tests in the `validators/placeholder.ak` file to demonstrate boolean, integer, and comparison operations, and included a test with a trace message.
